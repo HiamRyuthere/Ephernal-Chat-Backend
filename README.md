@@ -42,7 +42,8 @@ Send this JSON immediately after connecting:
   "age": 19,
   "gender": "Male"
 }
-2. Send Public Message (Broadcast)
+
+###2. Send Public Message (Broadcast)
 To send a message to everyone:
 
 JSON
@@ -52,7 +53,8 @@ JSON
   "username": "Ryu",
   "message": "Hello World!"
 }
-3. Send Private Message (DM)
+
+### 3. Send Private Message (DM)
 To send a secret message to a specific user:
 
 JSON
